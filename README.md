@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=176B87&center=true&vCenter=true&width=800&lines=Founder+%C2%B7+CTO+%C2%B7+Full-Stack+Engineer;13%2B+Years+Building+Digital+Products;Taking+Timely+to+International+Markets" alt="Founder, CTO, Full-Stack Engineer — 13+ years building digital products">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=F47B20&center=true&vCenter=true&width=800&lines=Founder+%C2%B7+CTO+%C2%B7+Full-Stack+Engineer;13%2B+Years+Building+Digital+Products;Taking+Timely+to+International+Markets" alt="Founder, CTO, Full-Stack Engineer — 13+ years building digital products">
 
 # Och Amarsaikhan
 
 **Turning complex workforce challenges into intelligent, scalable solutions.**
 
-<a href="https://timely.global"><img src="https://img.shields.io/badge/Building-Timely-176B87?style=for-the-badge&logoColor=white" alt="Building Timely"></a>
+<a href="https://timely.global"><img src="https://img.shields.io/badge/Building-Timely-F47B20?style=for-the-badge&logoColor=white" alt="Building Timely"></a>
 <a href="https://www.linkedin.com/in/ochmn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:ochstream@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
@@ -62,26 +62,32 @@ Building a platform that helps modern businesses run workforce operations more i
 | **Engineering** | Full-stack development, AI adoption, software architecture, scalable platforms |
 | **Domain** | Workforce management, time, attendance, productivity |
 
-## Technology & product
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" alt=""> Technology Stack
 
+<details open>
+<summary><b>Languages, frameworks & AI</b></summary>
+<br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Full--Stack_Engineering-176B87?style=for-the-badge" alt="Full-Stack Engineering">
-  <img src="https://img.shields.io/badge/AI_Product_Development-5B5FC7?style=for-the-badge" alt="AI Product Development">
-  <img src="https://img.shields.io/badge/Software_Architecture-34495E?style=for-the-badge" alt="Software Architecture">
-  <img src="https://img.shields.io/badge/SaaS-1F6FEB?style=for-the-badge" alt="SaaS">
-  <img src="https://img.shields.io/badge/Workforce_Technology-008272?style=for-the-badge" alt="Workforce Technology">
-  <img src="https://img.shields.io/badge/Go--to--Market-8A4FFF?style=for-the-badge" alt="Go-to-Market">
+  <a href="https://www.python.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"></a>&nbsp;
+  <a href="https://react.dev/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></a>&nbsp;
+  <a href="https://nextjs.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"></a>&nbsp;
+  <a href="https://streamlit.io/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit"></a>&nbsp;
+  <a href="https://aws.amazon.com/bedrock/"><img height="42" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Web Services"></a>&nbsp;
+  <a href="https://docs.pydantic.dev/"><img height="42" src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" alt="Pydantic"></a>
 </p>
+</details>
 
-## GitHub
+## GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/ochmn">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ochmn&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Och's GitHub statistics">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ochmn&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&icon_color=F47B20&text_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="Och's GitHub stats: stars, commits, pull requests, and rank">
 </a>
 <a href="https://github.com/ochmn">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochmn&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages on Och's public repositories">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochmn&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&text_color=FFFFFF&langs_count=6" alt="Most-used languages in public repositories">
 </a>
 
 </div>
