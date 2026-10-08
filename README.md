@@ -2,9 +2,9 @@
 
 # Och Amarsaikhan
 
-### Founder · Technology Executive · Product Builder
+### Founder · CTO · Full-Stack Engineer
 
-**Turning complex workforce challenges into intelligent, scalable solutions.**
+**13+ years building products and technology teams — turning complex workforce challenges into intelligent, scalable solutions.**
 
 <a href="https://timely.mn"><img src="https://img.shields.io/badge/Building-Timely-176B87?style=for-the-badge&logoColor=white" alt="Building Timely"></a>
 <a href="https://www.linkedin.com/in/ochmn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,11 +16,11 @@
 
 ## About
 
-I’m the **Co-Founder and CTO of [Timely.mn](https://timely.mn)**, where I’m leading the development of an AI-powered workforce management platform for the U.S. market.
+I’m a **Full-Stack Engineer with 13+ years of experience** building software products, alongside my work as the **Co-Founder and CTO of [Timely.mn](https://timely.mn)**. I’m leading the development of an AI-powered workforce management platform for the U.S. market.
 
 Timely helps modern businesses manage **time, attendance, productivity, and workforce operations** more intelligently—reducing administrative friction and enabling faster, data-driven decisions.
 
-My work spans company vision, product strategy, AI adoption, software architecture, go-to-market planning, team building, and international expansion. I enjoy taking products from early-stage ideas to market-ready platforms and building the technical and organizational foundations for sustainable growth.
+My work spans hands-on engineering, company vision, product strategy, AI adoption, software architecture, go-to-market planning, team building, and international expansion. I enjoy taking products from early-stage ideas to market-ready platforms and building the technical and organizational foundations for sustainable growth.
 
 ## What I’m building
 
@@ -47,18 +47,19 @@ Building a platform that helps businesses run workforce operations with greater 
 </tr>
 </table>
 
-## Leadership & product
+## Leadership & engineering
 
 | Area | Focus |
 |---|---|
 | **Company** | Vision, strategy, team building, international expansion |
 | **Product** | Product strategy, discovery, market readiness, go-to-market planning |
-| **Technology** | AI adoption, software architecture, scalable platforms |
+| **Engineering** | Full-stack development, AI adoption, software architecture, scalable platforms |
 | **Domain** | Workforce management, time, attendance, productivity |
 
 ## Background
 
 - **Co-Founder & CTO** — Timely.mn
+- **Full-Stack Engineering** — 13+ years of experience
 - **Executive MBA** — Quantic School of Business and Technology (2025–2026)
 - **Focus** — Startup development, IT engineering, and business ownership
 
