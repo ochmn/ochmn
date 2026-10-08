@@ -69,38 +69,38 @@ Building a platform that helps modern businesses run workforce operations more i
 
 <br>
 
-<table>
+<table width="100%" border="1" cellpadding="14" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
 ### Programming Languages
 
 <p>
-<a href="https://www.python.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"></a>&nbsp;
-<a href="https://www.java.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"></a>&nbsp;
-<a href="https://www.php.net/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"></a>&nbsp;
-<a href="https://kotlinlang.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"></a>
+<a href="https://www.python.org/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"></a>
+<a href="https://www.java.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"></a>
+<a href="https://www.php.net/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"></a>
+<a href="https://kotlinlang.org/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"></a>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<a href="https://react.dev/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></a>&nbsp;
-<a href="https://nextjs.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"></a>&nbsp;
-<a href="https://nodejs.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"></a>&nbsp;
-<a href="https://expressjs.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"></a>&nbsp;
-<a href="https://laravel.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"></a>&nbsp;
-<a href="https://flutter.dev/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"></a>&nbsp;
-<a href="https://streamlit.io/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit"></a>&nbsp;
-<a href="https://docs.pydantic.dev/"><img height="48" src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" alt="Pydantic"></a>&nbsp;
-<a href="https://www.tensorflow.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"></a>&nbsp;
-<a href="https://pytorch.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"></a>&nbsp;
-<a href="https://tailwindcss.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"></a>&nbsp;
-<a href="https://redux.js.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"></a>
+<a href="https://react.dev/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></a>
+<a href="https://nextjs.org/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"></a>
+<a href="https://nodejs.org/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"></a>
+<a href="https://expressjs.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"></a>
+<a href="https://laravel.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"></a>
+<a href="https://flutter.dev/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"></a>
+<a href="https://streamlit.io/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit"></a>
+<a href="https://docs.pydantic.dev/"><img height="38" src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" alt="Pydantic"></a>
+<a href="https://www.tensorflow.org/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"></a>
+<a href="https://pytorch.org/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"></a>
+<a href="https://tailwindcss.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"></a>
+<a href="https://redux.js.org/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"></a>
 </p>
 
 </td>
@@ -109,29 +109,29 @@ Building a platform that helps modern businesses run workforce operations more i
 ### Database & Services
 
 <p>
-<a href="https://www.mongodb.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"></a>&nbsp;
-<a href="https://firebase.google.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"></a>&nbsp;
-<a href="https://www.mysql.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"></a>&nbsp;
-<a href="https://www.docker.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"></a>&nbsp;
-<a href="https://kubernetes.io/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"></a>&nbsp;
-<a href="https://about.gitlab.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab"></a>&nbsp;
-<a href="https://www.jenkins.io/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins"></a>&nbsp;
-<a href="https://azure.microsoft.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure"></a>&nbsp;
-<a href="https://cloud.google.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"></a>&nbsp;
-<a href="https://aws.amazon.com/bedrock/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services / Bedrock"></a>
+<a href="https://www.mongodb.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"></a>
+<a href="https://firebase.google.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"></a>
+<a href="https://www.mysql.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"></a>
+<a href="https://www.docker.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"></a>
+<a href="https://kubernetes.io/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"></a>
+<a href="https://about.gitlab.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab"></a>
+<a href="https://www.jenkins.io/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins"></a>
+<a href="https://azure.microsoft.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure"></a>
+<a href="https://cloud.google.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"></a>
+<a href="https://aws.amazon.com/bedrock/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services / Bedrock"></a>
 </p>
 
 ### Tools & Platforms
 
 <p>
-<a href="https://git-scm.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"></a>&nbsp;
-<a href="https://www.postman.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"></a>&nbsp;
-<a href="https://colab.research.google.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab"></a>&nbsp;
-<a href="https://vercel.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel"></a>&nbsp;
-<a href="https://code.visualstudio.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"></a>&nbsp;
-<a href="https://visualstudio.microsoft.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"></a>&nbsp;
-<a href="https://www.jetbrains.com/idea/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA"></a>&nbsp;
-<a href="https://developer.android.com/studio"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"></a>
+<a href="https://git-scm.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"></a>
+<a href="https://www.postman.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"></a>
+<a href="https://colab.research.google.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab"></a>
+<a href="https://vercel.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel"></a>
+<a href="https://code.visualstudio.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"></a>
+<a href="https://visualstudio.microsoft.com/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"></a>
+<a href="https://www.jetbrains.com/idea/"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA"></a>
+<a href="https://developer.android.com/studio"><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"></a>
 </p>
 
 </td>
