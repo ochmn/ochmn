@@ -62,35 +62,88 @@ Building a platform that helps modern businesses run workforce operations more i
 | **Engineering** | Full-stack development, AI adoption, software architecture, scalable platforms |
 | **Domain** | Workforce management, time, attendance, productivity |
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" alt=""> Technology Stack
+---
 
 <details open>
-<summary><b>Languages, frameworks & AI</b></summary>
+<summary><h2>🔹 Technology Stack</h2></summary>
+
 <br>
-<p align="left">
-  <a href="https://www.python.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"></a>&nbsp;
-  <a href="https://react.dev/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></a>&nbsp;
-  <a href="https://nextjs.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"></a>&nbsp;
-  <a href="https://streamlit.io/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit"></a>&nbsp;
-  <a href="https://aws.amazon.com/bedrock/"><img height="42" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Web Services"></a>&nbsp;
-  <a href="https://docs.pydantic.dev/"><img height="42" src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" alt="Pydantic"></a>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Programming Languages
+
+<p>
+<a href="https://www.python.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"></a>
 </p>
+
+### Frameworks & Libraries
+
+<p>
+<a href="https://react.dev/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></a>&nbsp;
+<a href="https://nextjs.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"></a>&nbsp;
+<a href="https://streamlit.io/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit"></a>&nbsp;
+<a href="https://www.python.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" alt="Pydantic"></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Database & Services
+
+<p>
+<a href="https://aws.amazon.com/bedrock/"><img height="42" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Web Services"></a>&nbsp;
+<a href="https://aws.amazon.com/bedrock/"><img height="42" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Bedrock"></a>
+</p>
+
+### Tools & Platforms
+
+<p>
+<a href="https://git-scm.com/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"></a>&nbsp;
+<a href="https://github.com/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"></a>&nbsp;
+<a href="https://www.markdownguide.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown"></a>
+</p>
+
+</td>
+</tr>
+</table>
+
 </details>
 
-## GitHub Analytics
+---
+
+<details>
+<summary><h2>🌱 Future Learning Goals</h2></summary>
+
+Exploring new approaches to AI-enabled products, international SaaS growth, and workforce technology.
+
+</details>
+
+---
+
+<details open>
+<summary><h2>📈 GitHub Analytics</h2></summary>
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/ochmn">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ochmn&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&icon_color=F47B20&text_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="Och's GitHub stats: stars, commits, pull requests, and rank">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ochmn&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&icon_color=F47B20&text_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="Och's GitHub stats">
 </a>
 <a href="https://github.com/ochmn">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochmn&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&text_color=FFFFFF&langs_count=6" alt="Most-used languages in public repositories">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochmn&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&text_color=FFFFFF&langs_count=6" alt="Most-used languages on public repositories">
 </a>
 
 </div>
+
+</details>
+
+---
 
 ## Connect
 
