@@ -131,18 +131,19 @@ Exploring new approaches to AI-enabled products, international SaaS growth, and 
 ---
 
 <details open>
-<summary><h2>📈 GitHub Analytics</h2></summary>
+<summary><h2>📊 Profile Snapshot</h2></summary>
 
 <br>
 
 <div align="center">
 
-<a href="https://github.com/ochmn">
-  <img height="220" src="https://github-readme-stats-fast.vercel.app/api?username=ochmn&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&icon_color=F47B20&text_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="Och's GitHub stats: total stars, commits, pull requests, issues, contributions, and rank">
-</a>
-<a href="https://github.com/ochmn">
-  <img height="220" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ochmn&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&text_color=FFFFFF&langs_count=8" alt="Most-used languages on public repositories">
-</a>
+<img src="https://img.shields.io/badge/13%2B-Years%20Engineering-F47B20?style=for-the-badge" alt="13+ years of engineering experience">
+<img src="https://img.shields.io/badge/4-Core%20Focus%20Areas-FF9A3C?style=for-the-badge" alt="Four focus areas: company, product, engineering, and workforce technology">
+<img src="https://img.shields.io/badge/Global-Expansion-222222?style=for-the-badge" alt="Leading international expansion">
+
+<br><br>
+
+**Company Vision** &nbsp; · &nbsp; **Product Strategy** &nbsp; · &nbsp; **Full-Stack Engineering** &nbsp; · &nbsp; **Workforce Technology**
 
 </div>
 
