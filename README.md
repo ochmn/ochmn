@@ -1,40 +1,77 @@
-# Hi, I’m Och Amarsaikhan 👋
+<div align="center">
 
-**Startup founder, technology executive, and product builder** focused on turning complex workforce challenges into intelligent, scalable solutions.
+# Och Amarsaikhan
 
-I’m the **Co-Founder and CTO of [Timely.mn](https://timely.mn)**. I lead the development of an AI-powered workforce management platform, bringing together company vision, product strategy, AI adoption, software architecture, go-to-market planning, team building, and international expansion.
+### Founder · Technology Executive · Product Builder
 
-Our mission is to help modern businesses manage time, attendance, productivity, and workforce operations more intelligently—reducing administrative friction while enabling faster, data-driven decisions. I’m passionate about taking products from early-stage ideas to market-ready platforms and building the technical and organizational foundations for sustainable growth.
+**Turning complex workforce challenges into intelligent, scalable solutions.**
 
-## What I’m building
+<a href="https://timely.mn"><img src="https://img.shields.io/badge/Building-Timely-176B87?style=for-the-badge&logoColor=white" alt="Building Timely"></a>
+<a href="https://www.linkedin.com/in/ochmn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ochstream@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-### Timely — AI-powered workforce management
-I’m building Timely across product and technology, with a focus on making workforce operations easier to manage and decisions more informed. The platform is designed for the U.S. market.
-
-### Product portfolio
-My private project work spans SaaS, web and mobile applications, APIs, e-commerce, content platforms, and operational systems. I work across product direction, architecture, implementation, and growth planning.
-
-## Focus areas
-
-- Company vision and product strategy
-- AI adoption and product development
-- Software architecture and technology leadership
-- Workforce management and SaaS
-- Go-to-market planning
-- Team building and international expansion
-
-## Background
-
-- **Co-Founder & CTO**, Timely.mn
-- **Executive MBA**, Quantic School of Business and Technology (2025–2026)
-- Startup development, IT engineering, and business ownership
-
-## Connect
-
-- LinkedIn: [Och Amarsaikhan](https://www.linkedin.com/in/ochmn/)
-- GitHub: [@ochmn](https://github.com/ochmn)
-- Email: [ochstream@gmail.com](mailto:ochstream@gmail.com)
+</div>
 
 ---
 
+## About
+
+I’m the **Co-Founder and CTO of [Timely.mn](https://timely.mn)**, where I’m leading the development of an AI-powered workforce management platform for the U.S. market.
+
+Timely helps modern businesses manage **time, attendance, productivity, and workforce operations** more intelligently—reducing administrative friction and enabling faster, data-driven decisions.
+
+My work spans company vision, product strategy, AI adoption, software architecture, go-to-market planning, team building, and international expansion. I enjoy taking products from early-stage ideas to market-ready platforms and building the technical and organizational foundations for sustainable growth.
+
+## What I’m building
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+### Timely · AI-powered workforce management
+
+Building a platform that helps businesses run workforce operations with greater clarity and less administrative overhead. My focus covers product direction and technology, from architecture to market readiness.
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+**VISION**  
+↓  
+**PRODUCT**  
+↓  
+**PLATFORM**  
+↓  
+**GROWTH**
+
+</td>
+</tr>
+</table>
+
+## Leadership & product
+
+| Area | Focus |
+|---|---|
+| **Company** | Vision, strategy, team building, international expansion |
+| **Product** | Product strategy, discovery, market readiness, go-to-market planning |
+| **Technology** | AI adoption, software architecture, scalable platforms |
+| **Domain** | Workforce management, time, attendance, productivity |
+
+## Background
+
+- **Co-Founder & CTO** — Timely.mn
+- **Executive MBA** — Quantic School of Business and Technology (2025–2026)
+- **Focus** — Startup development, IT engineering, and business ownership
+
+## Connect
+
+<p>
+<a href="https://www.linkedin.com/in/ochmn/"><img src="https://img.shields.io/badge/LinkedIn-Och%20Amarsaikhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+<a href="https://github.com/ochmn"><img src="https://img.shields.io/badge/GitHub-ochmn-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"></a>
+<a href="mailto:ochstream@gmail.com"><img src="https://img.shields.io/badge/Email-ochstream%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<div align="center">
+
 *Building thoughtful technology that helps businesses and their people work better.*
+
+</div>
