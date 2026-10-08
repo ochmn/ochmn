@@ -6,7 +6,7 @@
 
 **13+ years building products and technology teams — turning complex workforce challenges into intelligent, scalable solutions.**
 
-<a href="https://timely.mn"><img src="https://img.shields.io/badge/Building-Timely-176B87?style=for-the-badge&logoColor=white" alt="Building Timely"></a>
+<a href="https://timely.global"><img src="https://img.shields.io/badge/Building-Timely-176B87?style=for-the-badge&logoColor=white" alt="Building Timely"></a>
 <a href="https://www.linkedin.com/in/ochmn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:ochstream@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-I’m a **Full-Stack Engineer with 13+ years of experience** building software products, alongside my work as the **Co-Founder and CTO of [Timely.mn](https://timely.mn)**. I’m leading the development and international expansion of an AI-powered workforce management platform, with the U.S. as a key target market.
+I’m a **Full-Stack Engineer with 13+ years of experience** building software products, alongside my work as the **Co-Founder and CTO of [Timely.mn](https://timely.global)**. I’m leading the development and international expansion of an AI-powered workforce management platform, with the U.S. as a key target market.
 
 Timely helps modern businesses manage **time, attendance, productivity, and workforce operations** more intelligently—reducing administrative friction and enabling faster, data-driven decisions.
 
