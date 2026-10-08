@@ -1,34 +1,33 @@
-# Сайн байна уу, би Оч 👋
+# Hi, I'm Och 👋
 
-**Программ хангамж хөгжүүлэгч** — веб бүтээгдэхүүн, API болон AI-д суурилсан хэрэгслүүд бүтээдэг.
+**Startup founder, technology executive, and product builder** focused on turning complex workforce challenges into intelligent, scalable solutions.
 
-Миний GitHub дээр бүтээгдэхүүний санааг ажилладаг шийдэл болгох туршлагын жишээнүүд бий: Next.js төсөл, QR үйлчилгээний API, мөн их сургуулийн имэйлийг ойлгомжтой үйл ажиллагааны төлөвлөгөө болгодог AI туслах.
+As Co-Founder of **Timely**, I’m leading the development of an AI-powered workforce management platform for the U.S. market. Our mission is to help modern businesses manage time, attendance, productivity, and workforce operations more intelligently—reducing administrative friction while enabling faster, data-driven decisions.
 
-## Онцлох төслүүд
+My role spans company vision, product strategy, AI adoption, software architecture, go-to-market planning, team building, and international expansion. I’m passionate about taking products from early-stage ideas to market-ready platforms and building the technical and organizational foundations for sustainable growth.
 
-### [LifeBridge](https://github.com/ochmn/lifebridge)
-Их сургуулийн төвөгтэй имэйлийг олон улсын оюутнуудад зориулсан ойлгомжтой хураангуй, хугацаа, хийх алхам болгон хувиргах AI туслах. Python, Streamlit, Pydantic, Strands Agents SDK, Amazon Bedrock ашигласан. AI-аас гарсан мэдээллийг хүн шалгаж баталгаажуулах зарчимтай.
+## What I’m building
 
-### [myQR API](https://github.com/ochmn/myQR_API)
-QR кодын бүтээгдэхүүний API төсөл.
+### Timely
+An AI-powered workforce management platform designed to help businesses run time, attendance, productivity, and workforce operations more effectively. I’m leading its product and technology development for the U.S. market.
 
-### [Next.js Commerce](https://github.com/ochmn/nextjscommerce)
-Next.js дээр суурилсан цахим худалдааны төсөл.
+### A portfolio of digital products
+My private project work spans SaaS, web and mobile applications, APIs, e-commerce, content platforms, and operational systems. Across these efforts, I work from product direction and architecture through implementation and growth planning.
 
-### [Python анхан шатны сургалтын хөтөлбөр](https://github.com/ochmn/beginner-python-curriculum)
-Python-ийг анхлан суралцагчдад заах зургаан хичээл, дадлага, гэрийн даалгаврын материал.
+## Focus areas
 
-## Технологи
+- Company vision and product strategy
+- AI adoption and product development
+- Software architecture and technology leadership
+- Workforce management and SaaS
+- Go-to-market planning
+- Team building and international expansion
 
-- **Хэл, орчин:** Python, JavaScript, Next.js
-- **Веб/API:** Streamlit, API хөгжүүлэлт
-- **AI ба өгөгдөл:** Amazon Bedrock, Strands Agents SDK, Pydantic
-
-## Холбоо барих
+## Connect
 
 - GitHub: [@ochmn](https://github.com/ochmn)
 - Email: [ochstream@gmail.com](mailto:ochstream@gmail.com)
 
 ---
 
-*Энд дурдсан зүйлс нь олон нийтэд нээлттэй репозиториуд дээр тулгуурлав. Туршлага, ажлын жил, албан тушаал болон баталгаажаагүй ур чадварын түвшнийг зориуд нэмээгүй.*
+*Building thoughtful technology that helps businesses and their people work better.*
