@@ -16,11 +16,11 @@
 
 ## About
 
-I’m a **Full-Stack Engineer with 13+ years of experience** building software products, alongside my work as the **Co-Founder and CTO of [Timely.mn](https://timely.mn)**. I’m leading the development of an AI-powered workforce management platform for the U.S. market.
+I’m a **Full-Stack Engineer with 13+ years of experience** building software products, alongside my work as the **Co-Founder and CTO of [Timely.mn](https://timely.mn)**. I’m leading the development and international expansion of an AI-powered workforce management platform, with the U.S. as a key target market.
 
 Timely helps modern businesses manage **time, attendance, productivity, and workforce operations** more intelligently—reducing administrative friction and enabling faster, data-driven decisions.
 
-My work spans hands-on engineering, company vision, product strategy, AI adoption, software architecture, go-to-market planning, team building, and international expansion. I enjoy taking products from early-stage ideas to market-ready platforms and building the technical and organizational foundations for sustainable growth.
+My work spans hands-on engineering, company vision, product strategy, AI adoption, software architecture, go-to-market planning, team building, and international expansion. I enjoy taking products from early-stage ideas to market-ready platforms and building the technical and organizational foundations for sustainable growth across markets.
 
 ## What I’m building
 
@@ -30,7 +30,7 @@ My work spans hands-on engineering, company vision, product strategy, AI adoptio
 
 ### Timely · AI-powered workforce management
 
-Building a platform that helps businesses run workforce operations with greater clarity and less administrative overhead. My focus covers product direction and technology, from architecture to market readiness.
+Expanding an AI-powered platform into international markets, including the U.S. Timely helps businesses run workforce operations with greater clarity and less administrative overhead. My focus covers product direction and technology, from architecture to market readiness and global growth.
 
 </td>
 <td width="30%" align="center" valign="middle">
@@ -41,7 +41,7 @@ Building a platform that helps businesses run workforce operations with greater 
 ↓  
 **PLATFORM**  
 ↓  
-**GROWTH**
+**GLOBAL GROWTH**
 
 </td>
 </tr>
@@ -73,6 +73,6 @@ Building a platform that helps businesses run workforce operations with greater 
 
 <div align="center">
 
-*Building thoughtful technology that helps businesses and their people work better.*
+*Building thoughtful technology that helps businesses and their people work better—across markets.*
 
 </div>
