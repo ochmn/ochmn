@@ -76,18 +76,21 @@ Building a platform that helps modern businesses run workforce operations more i
 ### Programming Languages
 
 <p>
-<a href="https://www.python.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"></a>
+<a href="https://www.python.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"></a>&nbsp;
+<a href="https://www.php.net/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"></a>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<a href="https://react.dev/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></a>&nbsp;
-<a href="https://nextjs.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"></a>&nbsp;
-<a href="https://streamlit.io/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit"></a>&nbsp;
-<a href="https://www.python.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" alt="Pydantic"></a>
+<a href="https://react.dev/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></a>&nbsp;
+<a href="https://nextjs.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"></a>&nbsp;
+<a href="https://laravel.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"></a>&nbsp;
+<a href="https://flutter.dev/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"></a>&nbsp;
+<a href="https://streamlit.io/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit"></a>&nbsp;
+<a href="https://docs.pydantic.dev/"><img height="48" src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" alt="Pydantic"></a>
 </p>
 
 </td>
@@ -96,16 +99,18 @@ Building a platform that helps modern businesses run workforce operations more i
 ### Database & Services
 
 <p>
-<a href="https://aws.amazon.com/bedrock/"><img height="42" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Web Services"></a>&nbsp;
-<a href="https://aws.amazon.com/bedrock/"><img height="42" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Bedrock"></a>
+<a href="https://www.mysql.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"></a>&nbsp;
+<a href="https://aws.amazon.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services"></a>&nbsp;
+<a href="https://aws.amazon.com/bedrock/"><img height="48" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Bedrock"></a>
 </p>
 
 ### Tools & Platforms
 
 <p>
-<a href="https://git-scm.com/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"></a>&nbsp;
-<a href="https://github.com/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"></a>&nbsp;
-<a href="https://www.markdownguide.org/"><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown"></a>
+<a href="https://git-scm.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"></a>&nbsp;
+<a href="https://github.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"></a>&nbsp;
+<a href="https://www.docker.com/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"></a>&nbsp;
+<a href="https://www.markdownguide.org/"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown"></a>
 </p>
 
 </td>
@@ -133,10 +138,10 @@ Exploring new approaches to AI-enabled products, international SaaS growth, and 
 <div align="center">
 
 <a href="https://github.com/ochmn">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ochmn&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&icon_color=F47B20&text_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="Och's GitHub stats">
+  <img height="220" src="https://github-readme-stats-fast.vercel.app/api?username=ochmn&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&icon_color=F47B20&text_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="Och's GitHub stats: total stars, commits, pull requests, issues, contributions, and rank">
 </a>
 <a href="https://github.com/ochmn">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochmn&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&text_color=FFFFFF&langs_count=6" alt="Most-used languages on public repositories">
+  <img height="220" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ochmn&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=F47B20&text_color=FFFFFF&langs_count=8" alt="Most-used languages on public repositories">
 </a>
 
 </div>
