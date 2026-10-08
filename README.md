@@ -1,18 +1,18 @@
-# Hi, I'm Och 👋
+# Hi, I’m Och Amarsaikhan 👋
 
 **Startup founder, technology executive, and product builder** focused on turning complex workforce challenges into intelligent, scalable solutions.
 
-As Co-Founder of **Timely**, I’m leading the development of an AI-powered workforce management platform for the U.S. market. Our mission is to help modern businesses manage time, attendance, productivity, and workforce operations more intelligently—reducing administrative friction while enabling faster, data-driven decisions.
+I’m the **Co-Founder and CTO of [Timely.mn](https://timely.mn)**. I lead the development of an AI-powered workforce management platform, bringing together company vision, product strategy, AI adoption, software architecture, go-to-market planning, team building, and international expansion.
 
-My role spans company vision, product strategy, AI adoption, software architecture, go-to-market planning, team building, and international expansion. I’m passionate about taking products from early-stage ideas to market-ready platforms and building the technical and organizational foundations for sustainable growth.
+Our mission is to help modern businesses manage time, attendance, productivity, and workforce operations more intelligently—reducing administrative friction while enabling faster, data-driven decisions. I’m passionate about taking products from early-stage ideas to market-ready platforms and building the technical and organizational foundations for sustainable growth.
 
 ## What I’m building
 
-### Timely
-An AI-powered workforce management platform designed to help businesses run time, attendance, productivity, and workforce operations more effectively. I’m leading its product and technology development for the U.S. market.
+### Timely — AI-powered workforce management
+I’m building Timely across product and technology, with a focus on making workforce operations easier to manage and decisions more informed. The platform is designed for the U.S. market.
 
-### A portfolio of digital products
-My private project work spans SaaS, web and mobile applications, APIs, e-commerce, content platforms, and operational systems. Across these efforts, I work from product direction and architecture through implementation and growth planning.
+### Product portfolio
+My private project work spans SaaS, web and mobile applications, APIs, e-commerce, content platforms, and operational systems. I work across product direction, architecture, implementation, and growth planning.
 
 ## Focus areas
 
@@ -23,8 +23,15 @@ My private project work spans SaaS, web and mobile applications, APIs, e-commerc
 - Go-to-market planning
 - Team building and international expansion
 
+## Background
+
+- **Co-Founder & CTO**, Timely.mn
+- **Executive MBA**, Quantic School of Business and Technology (2025–2026)
+- Startup development, IT engineering, and business ownership
+
 ## Connect
 
+- LinkedIn: [Och Amarsaikhan](https://www.linkedin.com/in/ochmn/)
 - GitHub: [@ochmn](https://github.com/ochmn)
 - Email: [ochstream@gmail.com](mailto:ochstream@gmail.com)
 
