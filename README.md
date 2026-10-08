@@ -142,15 +142,6 @@ Building a platform that helps modern businesses run workforce operations more i
 
 ---
 
-<details>
-<summary><h2>🌱 Future Learning Goals</h2></summary>
-
-Exploring new approaches to AI-enabled products, international SaaS growth, and workforce technology.
-
-</details>
-
----
-
 <details open>
 <summary><h2>📊 Profile Snapshot</h2></summary>
 
