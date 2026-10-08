@@ -70,6 +70,10 @@ Building a platform that helps modern businesses run workforce operations more i
 <br>
 
 <table width="100%" border="1" cellpadding="14" cellspacing="0">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
 <tr>
 <td width="50%" valign="top">
 
